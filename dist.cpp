@@ -45,4 +45,4 @@ int deviner(int mystere, int max_proposition){
 	}else {
 		return (-1); /*permet au programme de savoir que le joueur a perdu*/
 	}
-}test
+}
